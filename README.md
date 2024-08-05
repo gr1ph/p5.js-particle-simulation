@@ -6,6 +6,10 @@
 |---------|-----------|---------|-----------|
 | ![v1.0.0](https://img.shields.io/badge/version-1.0.0-blue) | ![Stable](https://img.shields.io/badge/stability-stable-brightgreen) | ![p5.js editor](https://img.shields.io/badge/p5.js-editor-pink) | v1 |
 
+| Docs Version | Snapshot | Directory |
+|---------|-----------|---------|
+| ![v1.0.0](https://img.shields.io/badge/version-1.0.0-blue) | ![Snapshot](https://img.shields.io/badge/snapshot-beta-hotpink) | docs/v1 |
+
 ### Changelog
 
 - v1: Intial release.
