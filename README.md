@@ -6,4 +6,5 @@
 
 ### Resources
 
-[Fast Algorithm for Particle Simulations](https://www.sciencedirect.com/science/article/pii/0021999187901409)
+- [Fast Algorithm for Particle Simulations](https://www.sciencedirect.com/science/article/pii/0021999187901409)
+- 
